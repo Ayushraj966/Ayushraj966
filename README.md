@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ayushraj966
-- 👀 I’m interested in AWS
 - 🌱 I’m currently persuing my btech degree from Aditya College Of Engineeering
 
 
